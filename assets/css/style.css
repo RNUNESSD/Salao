@@ -1,5 +1,8 @@
 body {
    background:url('../images/fundo.jpg');
+   background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
    font-family:Arial;
    margin:0px;
 }
